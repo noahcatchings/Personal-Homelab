@@ -2,7 +2,7 @@
 
 This repository documents my **personal homelab setup**, running on **Hyper-V** with **Ubuntu Server** as the host OS.  
 
-I use **CasaOS** to manage Docker containers for a variety of services, including:
+I am utilizing **CasaOS** to manage Docker containers for a variety of services, including:
 
 - **Media Servers** – Stream and manage media across devices.  
 - **Home Automation** – Automate smart home devices and routines.  
